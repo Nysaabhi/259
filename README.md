@@ -20298,7 +20298,7 @@ const publicPlacesData = [
         uniform: "Available at school store (₹2,500 complete set)"
       },
   primaryContact: {
-        whatsapp: "+911126185888",
+        whatsapp: "+917869809022",
         email: "admissions@dpsrkp.net",
         phone: "+91-1126185888"
       },
@@ -20522,7 +20522,7 @@ const publicPlacesData = [
       established: "2010",
       tags: ["Fitness", "Health", "Premium Gym"],
       primaryContact: {
-      whatsapp: "+911126567890",
+      whatsapp: "+917869809022",
       email: "hauzkhas@talwalkars.net",
       phone: "+91-1126567890"
     },
@@ -20676,7 +20676,7 @@ const publicPlacesData = [
       established: "1956",
       tags: ["Luxury", "Heritage", "Grand Weddings"],
       primaryContact: {
-      whatsapp: "+911126110101",
+      whatsapp: "+917869809022",
       email: "events@theashok.com",
       phone: "+91-1126110101"
     },
@@ -20976,7 +20976,7 @@ const publicPlacesData = [
       established: "1978",
       tags: ["Luxury", "5-Star", "Iconic"],
       primaryContact: {
-      whatsapp: "+911123026162",
+      whatsapp: "+917869809022",
       email: "reservations@tajhotels.com",
       phone: "+91-1123026162"
     },
